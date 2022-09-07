@@ -20,3 +20,5 @@ function soma(a,b){
     return a + b;
 }
 ```
+
+-[x] CSS do rodapé
