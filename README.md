@@ -10,3 +10,13 @@ _Checkout, Tela, **Catálogo**, *Home com banner*_
 ##### MElhorias do Projeto
 
 _MElhorias 1, melhorias 2_
+
+
+## Código
+
+
+```javascript
+function soma(a,b){
+    return a + b;
+}
+```
