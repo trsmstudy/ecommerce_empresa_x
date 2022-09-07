@@ -22,5 +22,5 @@ function soma(a,b){
 ```
 
 ## Lista de taréfas
-- **[x]** CSS do rodapé
+- [x] CSS do rodapé
 - [ ] Taréfa incompleta.
