@@ -4,9 +4,9 @@ Este é um e-commerce para a empresa X, feito em Node.js e MySQL
 
 ## Funcionalidades:
 
-Checkout, Tela, **Catálogo**, *Home com banner*
+_Checkout, Tela, **Catálogo**, *Home com banner*_
 
 
-###### MElhorias do Projeto
+##### MElhorias do Projeto
 
-MElhorias 1, melhorias 2
+_MElhorias 1, melhorias 2_
